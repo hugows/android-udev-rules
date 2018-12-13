@@ -1,3 +1,6 @@
+# this worked for me on ubuntu 18.10 to develop no my xiaomi mi a2 (brazil)
+# hugo dez-2018
+
 # android-udev-rules
 
 ## Description
